@@ -16,4 +16,4 @@
 
 # Initialize the project: npm init -y
 # Install Express: npm install express
-# Start the server:node index.js
+# Start the server: node index.js
